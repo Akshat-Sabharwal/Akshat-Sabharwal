@@ -1,4 +1,4 @@
-<div style="display: flex; justify-content: flex-start; align-items: center; flex-direction: column; text-align: center;">
+<div align="center">
 
 # Welcome
 
@@ -6,10 +6,14 @@ I am a student and a full-stack web-developer.
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Akshat-Sabharwal&mode=weekly)
 
+<br />
+
 ## Socials
 
 <a href="https://linkedin.com/in/akshat-sabharwal">![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
 <a href="https://mail.google.com/mail/u/0/?view=cm&fs=1&tf=1&to=akshat.sabharwal.work@gmail.com">![gmail](https://img.shields.io/badge/Gmail-EA4335.svg?style=for-the-badge&logo=Gmail&logoColor=white)</a>
+
+<br />
 
 ## Projects
 
@@ -20,6 +24,8 @@ I am a student and a full-stack web-developer.
 | Noteum  | A note-taking app with in-house JWT authentication built with MERN. | <a href="https://noteum.vercel.app">![noteum](https://img.shields.io/badge/Noteum-FFF?style=for-the-badge&)</a> |
 
 </div>
+
+<br />
 
 ## Tech Stack
 
@@ -60,4 +66,4 @@ I use the the following technologies in my projects.
 ![vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 
-</div>
+<div>
