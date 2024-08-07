@@ -47,7 +47,11 @@ I use the the following technologies in my projects.
 ![storybook](https://img.shields.io/badge/storybook-FF4785?style=for-the-badge&logo=storybook&logoColor=white)
 ![tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![react-query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white)
-![zustand](https://img.shields.io/badge/-Zustand-433E38?style=for-the-badge&logo=zustand&logoColor=white)
+![zustand](https://img.shields.io/badge/Zustand-433E38?style=for-the-badge&logo=zustand&logoColor=white)
+![vitest](https://img.shields.io/badge/Vitest-729B1A?style=for-the-badge&logo=vitest&logoColor=FCC72B)
+![cypress](https://img.shields.io/badge/Cypress-F0FCF8?style=for-the-badge&logo=cypress&logoColor=222535)
+![framer-motion](https://img.shields.io/badge/-Framer%20Motion-1A1A1A?style=for-the-badge&logo=framer&logoColor=E52EC0)
+![turborepo](https://img.shields.io/badge/Turborepo-FAFAFA?style=for-the-badge&logo=turborepo&logoColor=262626)
 
 
 ### Backend
@@ -56,6 +60,7 @@ I use the the following technologies in my projects.
 ![express](https://img.shields.io/badge/Express%20js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![mongoose](https://img.shields.io/badge/Mongoose-fcfbeb?style=for-the-badge&logo=mongoose&logoColor=red)
 ![jwt](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white)
+![firebase](https://img.shields.io/badge/Firebase-FF9300?style=for-the-badge&logo=firebase&logoColor=DD2C00)
 
 ### Database
 
