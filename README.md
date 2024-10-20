@@ -21,7 +21,8 @@ I am a student and a full-stack web-developer.
 
 | Project | Description                                                         | Link                                                                                                            |
 | ------- | ------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------- |
-| Noteum  | A note-taking app with in-house JWT authentication built with MERN. | <a href="https://noteum.vercel.app">![noteum](https://img.shields.io/badge/Noteum-FFF?style=for-the-badge&)</a> |
+| Noteum  | A note-taking app with in-house JWT authentication built with MERN. | <a href="https://noteum.vercel.app">![noteum](https://img.shields.io/badge/Noteum-FFF?style=for-the-badge)</a> |
+| Typisto | A type-test app to season typing speed | <a href="https://typisto.vercel.app">![typisto](https://img.shields.io/badge/Typisto-262626?style=for-the-badge)</a> |
 
 </div>
 
