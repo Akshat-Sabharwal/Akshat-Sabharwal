@@ -42,16 +42,20 @@ I use the the following technologies in my projects.
 ### Frontend
 
 ![react](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
+![nextjs](https://img.shields.io/badge/Next.js-000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+
 ![figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![chakra-ui](https://img.shields.io/badge/Chakra--UI-319795?style=for-the-badge&logo=chakra-ui&logoColor=white)
 ![storybook](https://img.shields.io/badge/storybook-FF4785?style=for-the-badge&logo=storybook&logoColor=white)
+
+![framer-motion](https://img.shields.io/badge/-Framer%20Motion-1A1A1A?style=for-the-badge&logo=framer&logoColor=E52EC0)
+![chakra-ui](https://img.shields.io/badge/Chakra--UI-319795?style=for-the-badge&logo=chakra-ui&logoColor=white)
 ![tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
 ![react-query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white)
 ![zustand](https://img.shields.io/badge/Zustand-433E38?style=for-the-badge&logo=zustand&logoColor=white)
+
 ![vitest](https://img.shields.io/badge/Vitest-729B1A?style=for-the-badge&logo=vitest&logoColor=FCC72B)
 ![cypress](https://img.shields.io/badge/Cypress-F0FCF8?style=for-the-badge&logo=cypress&logoColor=222535)
-![framer-motion](https://img.shields.io/badge/-Framer%20Motion-1A1A1A?style=for-the-badge&logo=framer&logoColor=E52EC0)
 ![turborepo](https://img.shields.io/badge/Turborepo-FAFAFA?style=for-the-badge&logo=turborepo&logoColor=262626)
 
 
@@ -66,7 +70,7 @@ I use the the following technologies in my projects.
 ### Database
 
 ![mongodb](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![sql](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![postgresql](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ### Deployment
 
