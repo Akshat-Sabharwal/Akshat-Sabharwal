@@ -3,6 +3,7 @@
 # Welcome
 
 I am a student and a full-stack web-developer.
+![gif](https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Akshat-Sabharwal&mode=weekly)
 
